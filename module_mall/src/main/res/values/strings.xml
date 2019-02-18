@@ -1,0 +1,4 @@
+<resources>
+    <string name="module_mall_name">module_mall</string>
+    <string name="title_activity_mall">MallActivity</string>
+</resources>
